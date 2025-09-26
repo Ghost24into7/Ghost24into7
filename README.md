@@ -28,22 +28,29 @@ Hey there, wanderer! I'm **Ghost24into7** (Myron Correia), a spectral developer 
 
 </details>
 
+### Activity Graph (Last 90 Days)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghost24into7&theme=gruvbox&hide_border=true&bg_color=0d1117&color=586e75&line=458588&point=feb2b2&area=true&hide_title=false&custom_title=Ghost%20Activity%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ## 📊 Ghost Stats (Live & Haunting!)
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghost24into7&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+### Myron Correia's GitHub Stats
+[![Ghost's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghost24into7&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs&show=stars,commits,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost24into7&layout=compact&theme=dracula&hide_border=true)
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost24into7&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghost24into7&theme=dracula&hide_border=true)
+### Contribution Streak
+[![Ghost's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghost24into7&theme=dracula&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghost24into7&theme=gruvbox&hide_border=true)
+### Profile Visitors (Live Counter)
+[![Visitors](https://komarev.com/ghpvc/?username=Ghost24into7&color=green&style=flat-square&label=Profile+views)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ghost24into7&color=green&style=flat-square&label=Visitors" alt="Visitors" />
-</div>
+<p align="center">
+  <em>These cards update automatically with every push—watch the ghosts multiply! 👻✨ Live via GitHub API magic.</em>
+</p>
 
 ## 🛠️ Skills Arsenal (Animated Icons!)
 <div align="center">
@@ -85,18 +92,6 @@ My hauntings evolve! Here's the freshest code phantoms (sorted by last update). 
 
 </details>
 
-## 🎮 Fun & Interactive Corner
-Wanna play? GitHub's Markdown is static, but let's bend the rules with collapsibles and links!
-
-<details>
-  <summary>🕹️ Quick AI Quiz: What's my fave model?</summary>
-  <p><strong>A)</strong> GRU for stocks <br><strong>B)</strong> DistilBERT for sentiments <br><strong>C)</strong> PPO for CartPole <br><em>Answer: All! But click <a href="https://github.com/Ghost24into7/Stock-Prediction-Dashboard-AI">here</a> for stock sorcery.</em></p>
-</details>
-
-<div align="center">
-  <p><em>Dancing ghosts celebrate your visit! 💃👻</em></p>
-</div>
-
 ## 🔗 Let's Connect in the Ether
 - 💼 **Portfolio**: [Coming soon—haunting a site near you!](https://ghost24into7.dev)
 - 🐦 **X/Twitter**: [@Ghost24into7]([https://x.com/Ghost24into7](https://x.com/MyronCorreia) – Tweet me code spells!
@@ -104,7 +99,7 @@ Wanna play? GitHub's Markdown is static, but let's bend the rules with collapsib
 - 🌐 **LinkedIn**: [Myron Correia]([https://linkedin.com/in/myron-correia](https://www.linkedin.com/in/myron-correia-08201b26a/)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=ff69b4&center=true&vCenter=true&width=400&lines=Thanks+for+haunting+my+profile!+⭐+Fork+if+you+like+the+spooks." alt="Goodbye Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=ff69b4&center=true&vCenter=true&width=400&lines=Thanks+for+haunting+my+profile!" alt="Goodbye Typing" />
 </div>
 
 ---

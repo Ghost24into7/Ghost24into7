@@ -93,10 +93,10 @@ My hauntings evolve! Here's the freshest code phantoms (sorted by last update). 
 </details>
 
 ## 🔗 Let's Connect in the Ether
-- 💼 **Portfolio**: [Coming soon—haunting a site near you!](https://ghost24into7.dev)
+- 💼 **Portfolio**: ([https://ghost24into7.dev](https://portfolio-hehe-eight.vercel.app/))
 - 🐦 **X/Twitter**: [@Ghost24into7]([https://x.com/Ghost24into7](https://x.com/MyronCorreia) – Tweet me code spells!
 - 📧 **Email**: myroncorreia23@gmail.com (for collab invocations)
-- 🌐 **LinkedIn**: [Myron Correia]([https://linkedin.com/in/myron-correia](https://www.linkedin.com/in/myron-correia-08201b26a/)
+- 🌐 **LinkedIn**: ([Myron Correia](https://www.linkedin.com/in/myron-correia-08201b26a/))
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=ff69b4&center=true&vCenter=true&width=400&lines=Thanks+for+haunting+my+profile!" alt="Goodbye Typing" />

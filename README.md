@@ -93,7 +93,7 @@ My hauntings evolve! Here's the freshest code phantoms (sorted by last update). 
 </details>
 
 ## 🔗 Let's Connect in the Ether
-- 💼 **Portfolio**: ([https://ghost24into7.dev](https://portfolio-hehe-eight.vercel.app/))
+- 💼 **Portfolio**: ([https://ghost24into7.dev](https://myron-correia-portfolio.vercel.app/))
 - 🐦 **X/Twitter**: [@Ghost24into7]([https://x.com/Ghost24into7](https://x.com/MyronCorreia) – Tweet me code spells!
 - 📧 **Email**: myroncorreia23@gmail.com (for collab invocations)
 - 🌐 **LinkedIn**: ([Myron Correia](https://www.linkedin.com/in/myron-correia-08201b26a/))

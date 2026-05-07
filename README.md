@@ -1,5 +1,7 @@
 # 👻 Welcome to the Ghost's AI Lair! 👻
-
+<div align="center">
+  <p><em>Some projects might not appear here as they are privately owned and are not public these are majorly from the application and ai based projects</em></p>
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=Phantom+Coder;AI+Enthusiast;ML+Wizard;Blockchain+Specter;Flutter+Phantom;Welcome+to+My+Repo+Realm!" alt="Typing SVG" />
 </div>

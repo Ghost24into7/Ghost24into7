@@ -1,107 +1,149 @@
-# 👻 Welcome to the Ghost's AI Lair! 👻
-<div align="center">
-  <p><em>Some projects might not appear here as they are privately owned and are not public these are majorly from the application and ai based projects</em></p>
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=Phantom+Coder;AI+Enthusiast;ML+Wizard;Blockchain+Specter;Flutter+Phantom;Welcome+to+My+Repo+Realm!" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
-  <p><em>I'm the ghost in the machine—haunting codebases with AI magic and blockchain spells. Let's conjure some innovation together! 🔮</em></p>
-</div>
-
-## 🚀 About the Ghost
-Hey there, wanderer! I'm **Ghost24into7** (Myron Correia), a spectral developer lurking in the shadows of AI, Machine Learning, and decentralized dreams. By day, I tame neural networks; by night, I build agents that think, plan, and predict. With 19+ repos under my ethereal belt, I'm all about turning wild ideas into working wonders.
-
-- 🌍 **Location**: Wandering the digital ether (but rooted in innovation hubs)
-- 💻 **Passions**: AI agents, reinforcement learning, blockchain apps, and seamless Flutter UIs
-- 📈 **Fun Fact**: My repos have summoned 20+ stars—help me haunt more!
-- 🎯 **Current Quest**: Crafting AI that doesn't just predict the future... it plans your trip to Jaipur! ✈️
-
-<details>
-  <summary>👻 Click to reveal my ghostly secrets! (Interactive Spoiler)</summary>
-  
-  - **Secret #1**: I once fine-tuned a DistilBERT to detect sarcasm in code comments. It called my commits "poetic chaos." 😂
-  - **Secret #2**: My CartPole RL agent balances longer than I can on a real pole (spoiler: zero seconds).
-  - **Secret #3**: TasteTide isn't just an app—it's my midnight snack summoner. Pizza ghosts approve! 🍕👻
-  - **Secret #4**: In the blockchain void, I've micro-tipped octocats in ETH. (Shh, don't tell Satoshi.)
-
-</details>
-
-### Activity Graph (Last 90 Days)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghost24into7&theme=gruvbox&hide_border=true&bg_color=0d1117&color=586e75&line=458588&point=feb2b2&area=true&hide_title=false&custom_title=Ghost%20Activity%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-## 📊 Ghost Stats (Live & Haunting!)
 <div align="center">
 
-### Myron Correia's GitHub Stats
-[![Ghost's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghost24into7&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs&show=stars,commits,prs)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:2E86AB&height=200&section=header&text=Myron%20Correia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20Agentic%20AI%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost24into7&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.linkedin.com/in/myron-correia-08201b26a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://myron-correia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1B3A6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:myroncorreia23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-### Contribution Streak
-[![Ghost's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghost24into7&theme=dracula&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<br/>
 
-### Profile Visitors (Live Counter)
-[![Visitors](https://komarev.com/ghpvc/?username=Ghost24into7&color=green&style=flat-square&label=Profile+views)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=1B3A6B&center=true&vCenter=true&width=650&lines=Building+multi-agent+systems+that+plan+%26+execute;Agentic+RAG+%7C+MCP+%7C+Self-Hosted+LLM+Inference;Shipping+to+AWS+%2C+GCP+%2C+and+on-prem;Python+%C2%B7+Go+%C2%B7+SQL" alt="Typing SVG" />
 
 </div>
 
-<p align="center">
-  <em>These cards update automatically with every push—watch the ghosts multiply! 👻✨ Live via GitHub API magic.</em>
-</p>
+<br/>
 
-## 🛠️ Skills Arsenal (Animated Icons!)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,dart,js,html,css,typescript,flask,postgres,ethereum,gemini,groq" alt="Skills" width="600" />
-</div>
+## About
 
-## 🌟 Featured Hauntings (Pinned Repos)
-These are my spectral masterpieces—AI agents that whisper secrets, recommend treasures, and predict fortunes. Stars update live via badges! ⭐
+AI/ML Engineer currently working as a Solutions Architect at a manufacturing-tech company in Mumbai, where I design LLM-driven forecasting and planning systems end-to-end — from the data pipeline to the agent orchestration to the infrastructure it runs on.
 
-| Repo | Description | Lang | Stars | Last Updated |
-|------|-------------|------|-------|--------------|
-| [![Stock-Prediction-Dashboard-AI](https://img.shields.io/badge/Stock%20Prediction%20Dashboard-AI-brightgreen)](https://github.com/Ghost24into7/Stock-Prediction-Dashboard-AI) | Web app unleashing GRU neural nets for stock prophecies. Crystal ball included! 🔮 | ![HTML](https://img.shields.io/badge/HTML-orange) | ![Stars](https://img.shields.io/github/stars/Ghost24into7/Stock-Prediction-Dashboard-AI?style=social) | Jan 2025 |
-| [![Hybrid-Ecommerce-Recommendation-System](https://img.shields.io/badge/Hybrid%20Ecommerce%20Rec%20System-blue)](https://github.com/Ghost24into7/Hybrid-Ecommerce-Recommendation-System) | Collaborative + content filtering for personalized shopping haunts. Your next buy? 👻🛒 | ![Python](https://img.shields.io/badge/Python-yellow) | ![Stars](https://img.shields.io/github/stars/Ghost24into7/Hybrid-Ecommerce-Recommendation-System?style=social) | Recent |
-| [![InventorySync](https://img.shields.io/badge/InventorySync-AI%20Assistant-purple)](https://github.com/Ghost24into7/InventorySync) | Flask + Gemini-powered sales ghost. Upload Excel, get reports—poof! 📊 | ![Python](https://img.shields.io/badge/Python-yellow) | ![Stars](https://img.shields.io/github/stars/Ghost24into7/InventorySync?style=social) | Aug 2025 |
-| [![PlanPilot-AI](https://img.shields.io/badge/PlanPilot%20AI-Planner%20Agent-teal)](https://github.com/Ghost24into7/PlanPilot-AI) | Natural language to structured plans. "Jaipur trip?"—instant itinerary with weather! 🌤️ | ![Python](https://img.shields.io/badge/Python-yellow) | ![Stars](https://img.shields.io/github/stars/Ghost24into7/PlanPilot-AI?style=social) | Sep 22, 2025 |
-| [![ResearchRaven-AI](https://img.shields.io/badge/ResearchRaven-AI%20Researcher-black)](https://github.com/Ghost24into7/ResearchRaven-AI) | Query to report: Web search, summarize with LLM. Knowledge raven at your service! 🐦‍⬛ | ![Python](https://img.shields.io/badge/Python-yellow) | ![Stars](https://img.shields.io/github/stars/Ghost24into7/ResearchRaven-AI?style=social) | Sep 21, 2025 |
-| [![TasteTide-Flutter-App](https://img.shields.io/badge/TasteTide-Flutter%20Food%20App-pink)](https://github.com/Ghost24into7/TasteTide-Flutter-App) | BLoC-powered food ordering with animations. Hungry ghosts unite! 🍔✨ | ![Dart](https://img.shields.io/badge/Dart-blue) | ![Stars](https://img.shields.io/github/stars/Ghost24into7/TasteTide-Flutter-App?style=social) | Sep 25, 2025 |
+I focus on **agentic systems that ship**, not notebooks that demo well once:
+- Multi-agent orchestration with **LangGraph**, **Agentic RAG**, and the **Model Context Protocol (MCP)**
+- Serving open-weight models myself with **vLLM** / **Ollama** when data can't leave the building
+- Deploying the same service to **AWS** and **GCP** so it isn't locked to one cloud
+- Writing the parts that need to be fast and boring — routing, caching, auth — in **Go**
 
-**Pro Tip**: Click badges for direct repo jumps. New pushes? Stats refresh automatically—watch the stars rise! 🌟
+Currently deepening the infra side of this (Kubernetes, Terraform, quantized local inference) ahead of a move into a dedicated GenAI/Applied AI Engineer role.
 
-## 🔥 Latest Spectral Updates (Recent Repos)
-My hauntings evolve! Here's the freshest code phantoms (sorted by last update). For live freshness, fork and summon your own. 👻
+<br/>
 
-- **TasteTide-Flutter-App** (Sep 25, 2025) - Flutter feast finder with BLoC magic. <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30" alt="Food GIF" />
-- **PlanPilot-AI** (Sep 22, 2025) - AI trip planner with API enchantments. <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="30" alt="Plan GIF" />
-- **notely-multiverse** (Sep 21, 2025) - Multi-tenant SaaS notes on Vercel. Secure and subscription-ready! <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30" alt="Notes GIF" />
-- **ResearchRaven-AI** (Sep 21, 2025) - Web-to-report AI raven. Summarize the world! <img src="https://media.giphy.com/media/3o7TKsQ8J2zMcrZ9y0/giphy.gif" width="30" alt="Research GIF" />
-- **conversation-management-Groq** (Sep 18, 2025) - Groq API for chat history & classification. Talk to the void! <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30" alt="Chat GIF" />
-
-<details>
-  <summary>👻 Expand for full repo graveyard (19 total—scroll if you dare!)</summary>
-  
-  | Repo | Description | Lang | Stars |
-  |------|-------------|------|-------|
-  | ToDoList-Blockchain | Decentralized tasks on Ethereum. Transparent to-dos forever! | JS | 3 |
-  | aave-credit-score-model | DeFi credit scoring with ML. Wallet vibes checked. | Python | 1 |
-  | RL_driven_Resource_Allocation... | PPO for CPU/memory optimization. RL playground! | Jupyter | 1 |
-  | ... (and more lurking below—update manually for eternal freshness) | - | - | - |
-
-</details>
-
-## 🔗 Let's Connect in the Ether
-- 💼 **Portfolio**: ([https://ghost24into7.dev](https://myron-correia-portfolio.vercel.app/))
-- 🐦 **X/Twitter**: [@Ghost24into7]([https://x.com/Ghost24into7](https://x.com/MyronCorreia) – Tweet me code spells!
-- 📧 **Email**: myroncorreia23@gmail.com (for collab invocations)
-- 🌐 **LinkedIn**: ([Myron Correia](https://www.linkedin.com/in/myron-correia-08201b26a/))
+## Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=ff69b4&center=true&vCenter=true&width=400&lines=Thanks+for+haunting+my+profile!" alt="Goodbye Typing" />
+
+**GenAI & Agents**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+**Languages & Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 </div>
 
----
+<br/>
+
+## Featured Work
+
+<div align="center">
+
+<a href="https://github.com/Ghost24into7/PulseAI">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ghost24into7&repo=PulseAI&theme=default_repocard" width="48%"/>
+</a>
+<a href="https://github.com/Ghost24into7/InventorySync">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ghost24into7&repo=InventorySync&theme=default_repocard" width="48%"/>
+</a>
+
+<a href="https://github.com/Ghost24into7/PlanPilot-AI">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ghost24into7&repo=PlanPilot-AI&theme=default_repocard" width="48%"/>
+</a>
+<a href="https://github.com/Ghost24into7/ResearchRaven-AI">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ghost24into7&repo=ResearchRaven-AI&theme=default_repocard" width="48%"/>
+</a>
+
+<a href="https://github.com/Ghost24into7/Stock-Prediction-Dashboard-AI">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ghost24into7&repo=Stock-Prediction-Dashboard-AI&theme=default_repocard" width="48%"/>
+</a>
+<a href="https://github.com/Ghost24into7/Hybrid-Ecommerce-Recommendation-System">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ghost24into7&repo=Hybrid-Ecommerce-Recommendation-System&theme=default_repocard" width="48%"/>
+</a>
+
+</div>
+
+| Project | What it does |
+|---|---|
+| **[PulseAI](https://github.com/Ghost24into7/PulseAI)** | Real-time Indian financial intelligence dashboard on live RBI / NPCI / NSE / AMFI data, with Gemini-powered bilingual NL queries and auto-generated boardroom PPT reports |
+| **[InventorySync](https://github.com/Ghost24into7/InventorySync)** | AI business assistant (Flask + PostgreSQL + Gemini) for natural-language inventory queries, voice input, and scheduled email reports |
+| **[PlanPilot-AI](https://github.com/Ghost24into7/PlanPilot-AI)** | Agent that turns a natural-language goal into a structured, enriched plan using web search and weather APIs |
+| **[ResearchRaven-AI](https://github.com/Ghost24into7/ResearchRaven-AI)** | Query-to-report pipeline: web search + LLM summarization into a structured research brief |
+| **[Stock-Prediction-Dashboard-AI](https://github.com/Ghost24into7/Stock-Prediction-Dashboard-AI)** | Web dashboard using GRU neural networks for time-series stock forecasting |
+| **[Hybrid-Ecommerce-Recommendation-System](https://github.com/Ghost24into7/Hybrid-Ecommerce-Recommendation-System)** | Collaborative + content-based hybrid recommender for personalized product ranking |
+
+*More projects on [GitHub →](https://github.com/Ghost24into7?tab=repositories)*
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Ghost24into7&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ghost24into7&layout=compact&theme=default&hide_border=true&langs_count=8" width="30%"/>
+
+<br/>
+
+
+
+<br/>
+
+
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ghost24into7/Ghost24into7/output/github-contribution-grid-snake.svg" width="80%"/>
+
+<sub>Generated automatically by the workflow in <code>.github/workflows/snake.yml</code> — see setup notes below.</sub>
+
+</div>
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Myron%20Correia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myron-correia-08201b26a/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1B3A6B?style=flat-square&logo=vercel&logoColor=white)](https://myron-correia-portfolio.vercel.app/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:1B3A6B&height=100&section=footer" width="100%"/>

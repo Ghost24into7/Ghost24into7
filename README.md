@@ -130,7 +130,6 @@ Currently deepening the infra side of this (Kubernetes, Terraform, quantized loc
 
 <img src="https://raw.githubusercontent.com/Ghost24into7/Ghost24into7/output/github-contribution-grid-snake.svg" width="80%"/>
 
-<sub>Generated automatically by the workflow in <code>.github/workflows/snake.yml</code> — see setup notes below.</sub>
 
 </div>
 

@@ -4,7 +4,6 @@
 
 <a href="https://www.linkedin.com/in/myron-correia-08201b26a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://myron-correia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1B3A6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:myroncorreia23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
